@@ -90,7 +90,7 @@ ul li span {
 @media (min-width: 700px) {
   /*40em = 640px */
   body {
-    padding-top: 8rem;
+    padding: 8rem;
   }
 
   main {
