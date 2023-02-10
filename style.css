@@ -78,6 +78,10 @@ ul li {
   gap: 3.8rem;
 }
 
+ul li + li {
+  margin-top: 3.2rem;
+}
+
 ul li span {
   font-weight: 800;
   font-size: 7.2rem;
